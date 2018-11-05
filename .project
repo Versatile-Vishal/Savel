@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
 	<name>Sav-el</name>
 	<comment></comment>
@@ -11,7 +10,9 @@
 			</arguments>
 		</buildCommand>
 	</buildSpec>
+	
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	
 </projectDescription>

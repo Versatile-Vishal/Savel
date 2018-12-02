@@ -1,5 +1,5 @@
 # Savel
-Smart iot based solution for saving electricity.
+Smart IOT based solution for saving electricity.
 
 
 USAGE : 
